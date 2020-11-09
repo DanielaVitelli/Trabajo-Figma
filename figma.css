@@ -1,0 +1,46 @@
+#portada {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 8pt;
+    font-style: italic;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.content-center {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+p {
+    color: lightslategrey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10pt;
+}
+
+.img-center {
+    text-align: right;
+}
+
+.img-center img {
+    width: 50%;
+}
+
+img {
+
+}
+
+button:hover {
+    background-color: mediumblue;
+    color: mintcream;
+
+}
+
+.content-center {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+    font-size: 15pt;
+}
+
